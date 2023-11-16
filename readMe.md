@@ -1,4 +1,10 @@
 <div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=175&text=⚾Harry%20Chai⚽&animation=fadeIn&fontAlignY=35&fontSize=45)
+</div>
+
+
+<div align="center">
 
   <h3 align="center">
     About Me
