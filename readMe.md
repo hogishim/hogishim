@@ -1,10 +1,30 @@
 <div align="center">
+
+  <h3 align="center">
+    About Me
+  </h3>
+
   <h4 align="center">
     I'm a <strong style="background-color: rgb(50, 50, 50);">frontend developer</strong> from South Korea
   </h4>
-  <a href="mailto:hogi1216@naver.com" target="_blank"><img src="https://img.shields.io/badge/hogi1216@naver.com-FCF695?style=flat-square&logo=Mail.Ru&logoColor=white"/></a>
+  <a href="mailto:hogi1216@naver.com" target="_blank"><img src="https://img.shields.io/badge/hogi1216@naver.com-567ace?style=flat-square&logo=Mail.Ru&logoColor=white"/></a>
   <a href="https://www.instagram.com/harrythegreat_/" target="_blank"><img src="https://img.shields.io/badge/harrythegreat_-F1D2E7?style=flat-square&logo=Instagram&logoColor=black"/></a>
   <br/><br/>
+
+  <h4 align="center">
+    Education🎓
+</h4>
+
+<h6 align="center">
+Jamil High School, Seoul, South Korea(잠일고등학교)  (2014.03 ~ 2017.02)<br><br>
+Department of Software, Gachon University, South Korea(가천대학교)  (2018.03 ~ ) <br><br>
+Burton & South Derbyshire College, United Kingdom  (2019.07) [short term study]
+
+</h6>
+
+
+  
+
 
 <div align="center">
   <br/>
@@ -29,7 +49,7 @@
   </h4>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
 
   
   <h4 align="center">
@@ -37,7 +57,7 @@
   </h4>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-  
+  <img alt="elasticsearch" src="https://img.shields.io/badge/elastic search-BBB0DC?style=flat-square&logo=elasticsearch&logoColor=white">  
   
   <h4 align="center">
     DevOps
@@ -47,6 +67,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kakao%20i%20Cloud-F9E000?style=flat-square&logo=Kakao&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+  <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-F3AA51?style=flat-square&logo=Amazon AWS&logoColor=white">
+
   
   
 </div>
