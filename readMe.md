@@ -13,9 +13,17 @@
   <h4 align="center">
     I'm a <strong style="background-color: rgb(50, 50, 50);">frontend developer</strong> from South Korea
   </h4>
+
+  <h4 align="center">
+    Contact Me!!
+</h4>
+
   <a href="mailto:hogi1216@naver.com" target="_blank"><img src="https://img.shields.io/badge/hogi1216@naver.com-567ace?style=flat-square&logo=Mail.Ru&logoColor=white"/></a>
   <a href="https://www.instagram.com/harrythegreat_/" target="_blank"><img src="https://img.shields.io/badge/harrythegreat_-F1D2E7?style=flat-square&logo=Instagram&logoColor=black"/></a>
   <br/><br/>
+
+
+
 
   <h4 align="center">
     Education🎓
