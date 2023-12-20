@@ -81,7 +81,7 @@ Burton & South Derbyshire College, United Kingdom  (2019.07) [short term study]
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kakao%20i%20Cloud-F9E000?style=flat-square&logo=Kakao&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kakao%20Cloud-F9E000?style=flat-square&logo=Kakao&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
   <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-F3AA51?style=flat-square&logo=Amazon AWS&logoColor=white">
 
