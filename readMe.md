@@ -30,10 +30,13 @@
 </h4>
 
 <h6 align="center">
-Seoul Jamsin Elementry School, Seoul, South Korea(서울잠신초등학교) (2010.02 ~ 2011.02)<br><br>
-Jamsin Middle School, Seoul, South Korea(잠신중학교) (2011.03 ~ 2014.02)<br><br>
-Jamil High School, Seoul, South Korea(잠일고등학교)  (2014.03 ~ 2017.02)<br><br>
-Department of Software, Gachon University, South Korea(가천대학교)  (2018.03 ~ ) <br><br>
+Seoul Gunam Elementry School, Seoul, South Korea (서울구남초등학교) (2004.03 ~ 2008.07)<br><br>
+Seoul Yangjin Elementry School, Seoul, South Korea (서울양진초등학교) (2009.12)<br><br>
+Seoul Jamsin Elementry School, Seoul, South Korea (서울잠신초등학교) (2010.02 ~ 2011.02)<br><br>
+Jamsin Middle School, Seoul, South Korea (잠신중학교) (2011.03 ~ 2014.02)<br><br>
+Jamil High School, Seoul, South Korea (잠일고등학교)  (2014.03 ~ 2017.02)<br><br>
+Department of Software, Gachon University, South Korea (가천대학교)  (2018.03 ~ 2024.02) <br><br><hr>
+Mount Maunganui Primary School, New Zealand (2008.07 ~ 2009.12)<br><br>
 Burton & South Derbyshire College, United Kingdom  (2019.07) [short term study]
 
 </h6>
