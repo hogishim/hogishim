@@ -36,6 +36,9 @@ Seoul Jamsin Elementry School, Seoul, South Korea (서울잠신초등학교) (20
 Jamsin Middle School, Seoul, South Korea (잠신중학교) (2011.03 ~ 2014.02)<br><br>
 Jamil High School, Seoul, South Korea (잠일고등학교)  (2014.03 ~ 2017.02)<br><br>
 Department of Software, Gachon University, South Korea (가천대학교)  (2018.03 ~ 2024.02) <br><br><hr>
+    <h4 align="center">
+    Overseas studies🎓
+</h4>
 Mount Maunganui Primary School, New Zealand (2008.07 ~ 2009.12)<br><br>
 Burton & South Derbyshire College, United Kingdom  (2019.07) [short term study]
 
