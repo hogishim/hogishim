@@ -22,7 +22,15 @@
   <a href="https://www.instagram.com/hogi._.shim/" target="_blank"><img src="https://img.shields.io/badge/hogi._.shim_-F1D2E7?style=flat-square&logo=Instagram&logoColor=black"/></a>
   <br/><br/>
 
+<h4 align="center">
+    Work Experience👨🏻‍💼
+</h4>
+<h6 align="center">
+  Triz Company, Seoul, South Korea(트리즈컴퍼니) (2024.10 ~ )<br><br>
+  
+</h6>
 
+<hr>
 
 
   <h4 align="center">
@@ -30,8 +38,6 @@
 </h4>
 
 <h6 align="center">
-Seoul Gunam Elementry School, Seoul, South Korea (서울구남초등학교) (2004.03 ~ 2008.07)<br><br>
-Seoul Yangjin Elementry School, Seoul, South Korea (서울양진초등학교) (2009.12)<br><br>
 Seoul Jamsin Elementry School, Seoul, South Korea (서울잠신초등학교) (2010.02 ~ 2011.02)<br><br>
 Jamsin Middle School, Seoul, South Korea (잠신중학교) (2011.03 ~ 2014.02)<br><br>
 Jamil High School, Seoul, South Korea (잠일고등학교)  (2014.03 ~ 2017.02)<br><br>
