@@ -11,7 +11,7 @@
   </h3>
 
   <h4 align="center">
-    I'm a <strong style="background-color: rgb(50, 50, 50);">frontend developer</strong> from South Korea
+    I'm a <strong style="background-color: rgb(50, 50, 50);">Frontend Engineer</strong> from South Korea
   </h4>
 
   <h4 align="center">
